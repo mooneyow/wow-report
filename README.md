@@ -44,7 +44,7 @@ https://mods.curse.com/addons/wow/rclootcouncil was my next attempt. It has 500k
 Because addons in the game cannot communicate with the internet it is difficult to tell when they are out of date. They accomplish this by instead sending other players their version numbers. When a version number is received that is higher than the one installed they prompt the user to update...by printing to their chat.
 Like this:
 
-![screenshot](https://beta.owenmooney.com/owen/wow-report/raw/master/WoWScrnShot_110216_203126.jpg)
+![screenshot](https://raw.githubusercontent.com/mooneyow/wow-report/master/WoWScrnShot_110216_203126.jpg)
 
 Bingo. We now have a delivery mechanism common to many addons.
 
